@@ -1,0 +1,15 @@
+E:\New folder (6)\my first\my first\bin\Debug\net6.0\my first.exe
+E:\New folder (6)\my first\my first\bin\Debug\net6.0\my first.deps.json
+E:\New folder (6)\my first\my first\bin\Debug\net6.0\my first.runtimeconfig.json
+E:\New folder (6)\my first\my first\bin\Debug\net6.0\my first.dll
+E:\New folder (6)\my first\my first\bin\Debug\net6.0\my first.pdb
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.csproj.AssemblyReference.cache
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.AssemblyInfoInputs.cache
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.AssemblyInfo.cs
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.csproj.CoreCompileInputs.cache
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.dll
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\refint\my first.dll
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.pdb
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\my first.genruntimeconfig.cache
+E:\New folder (6)\my first\my first\obj\Debug\net6.0\ref\my first.dll
